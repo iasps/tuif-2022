@@ -1,12 +1,12 @@
-# Infoweb Turma 2022 - FLA Game
+# TUIF - O JOGO
 
-## Objetivo
-- Repositório dos Jogos Eletrônicos produzidos na disciplina de FLA de Infoweb Turma 2022
+## Sobre o jogo
+- Tuif foi pensado para os calouros do IFRN,principalmente os do curso informatica para internet, com a intenção de apresentar o campus Natal central por meio de uma jogo da forca.O jogo possui uma personagem chamada Élida que uma veterana no curso e, que acompanhara o calouro nessa jornada. O objetivo do jogo é acertar 10 palavras em 2 minutos para que sua matricula não seja cancelada.
 
-## Tecnologias
+## Interface
 - [Python](https://www.python.org/)
 - [pygame](https://www.pygame.org/)
 
-## Lista de jogos produzidos
-1. FIXME
-2. FIXME
+## Desenvolvedores
+1. Iasmim Paula
+2. Micael Dantas
